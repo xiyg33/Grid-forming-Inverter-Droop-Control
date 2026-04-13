@@ -5,7 +5,13 @@
 ![平台](https://img.shields.io/badge/Platform-Windows%20%7C%20MinGW64-blue.svg)
 ![构建](https://img.shields.io/badge/Build-mex%20INV__droopCtrl.cpp-informational.svg)
 
+🌍 [中文版本](README-zh.md) | [English Version](README.md)
+
 一个用于 MATLAB/Simulink 的基于 C++ S-Function (MEX) 的构网型逆变器下垂控制实现。
+
+详细的介绍可见视频：
+
+【储能三相并网（2.5）-S-Function下垂控制实现】 https://www.bilibili.com/video/BV1YwDCBBE91
 
 本项目重点关注：
 
