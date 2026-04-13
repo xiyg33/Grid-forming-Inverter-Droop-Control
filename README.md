@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20MinGW64-blue.svg)
 ![Build](https://img.shields.io/badge/Build-mex%20INV__droopCtrl.cpp-informational.svg)
 
-🌍 [中文版本](README-zh.md) | [English Version](README.md)
+🌍 [中文版本](README_zh.md) | [English Version](README.md)
 
 A grid-forming inverter droop-control implementation for MATLAB/Simulink using a C++ S-Function (MEX).
 
