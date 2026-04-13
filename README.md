@@ -69,7 +69,6 @@ Outputs (4 ports):
 
 ## Notes
 
-- This repository includes generated/cache artifacts from Simulink. If you open source this project, consider cleaning non-essential build/cache files before publishing.
 - For reproducibility, keep control parameters in inv_droop/config.hpp and avoid ad-hoc edits inside interface glue code.
 
 ## License
