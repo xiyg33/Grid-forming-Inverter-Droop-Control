@@ -9,9 +9,6 @@
 
 A grid-forming inverter droop-control implementation for MATLAB/Simulink using a C++ S-Function (MEX).
 
-For a detailed introduction, please see the video:
-
-【储能三相并网（2.5）-S-Function下垂控制实现】 https://www.bilibili.com/video/BV1YwDCBBE91
 
 This project focuses on:
 
